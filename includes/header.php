@@ -154,7 +154,7 @@ $sql_category = mysqli_query($con, 'SELECT * FROM tbl_category ORDER BY category
             <div style="display: flex; justify-content: space-between" class="collapse navbar-collapse" id="navbarSupportedContent">
                 <div style="width: 70px; height: 70%" class="logo-box">
                     <a style="display: inline-block; width: 100%; height: 100%" href="index.php">
-                        <img style="width: 70%;display: block;height: 100%;" src="public/img/logo-index.jpg" alt="logo">
+                        <img style="width: 70%;display: block;height: 100%;" src="assets/img/logo-index.jpg" alt="logo">
                     </a>
                 </div>
                 <div class="col-md-6 header mb-4 mt-4">
